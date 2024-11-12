@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[962],{1869:function(a,e,t){t.r(e);var i=t(21120),u=t(52676),r=function(){var n=!0;return{isLogin:n}};e.default=function(){var s=r(),n=s.isLogin;return n?(0,u.jsx)("div",{children:(0,u.jsx)(i.Outlet,{context:{prop:"from Layout"}})}):(0,u.jsx)(i.Navigate,{replace:!0,to:"/login"})}}}]);
